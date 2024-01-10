@@ -52,6 +52,54 @@ body{
     background-color: #1F2937;
 }
 
+.placeholder{
+    text-align: center;
+    color: #F9FAF8;
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+}
+
 .placeholder p{
     margin: 90px 0 0 0;
+}
+
+.links a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.first-container{
+    padding-bottom: 100px;
+    width: 470px;
+}
+
+.header{
+    gap: 450px;
+}
+
+.first{
+    gap: 450px;
+    align-items: center;
+}
+
+.top{
+    align-items: center;
+}
+
+.first-header{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.first-header-subtext{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
 }
