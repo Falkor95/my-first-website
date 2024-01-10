@@ -1,0 +1,9 @@
+body,
+.top,
+.second,
+.third,
+.image-subtext,
+.fourth-text{
+display: flex;
+flex-direction: column;
+}
